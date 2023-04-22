@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sophieportfolio.github.io/static/css/main.2fb65c00.css",
+    "main.js": "/Sophieportfolio.github.io/static/js/main.f6887a9d.js",
+    "static/media/_person2-p-500.jpg": "/Sophieportfolio.github.io/static/media/63e50e2c3ccf4fcd1433b598_person2-p-500.10b0f634b935a3cd97cf.jpg",
+    "index.html": "/Sophieportfolio.github.io/index.html",
+    "main.2fb65c00.css.map": "/Sophieportfolio.github.io/static/css/main.2fb65c00.css.map",
+    "main.f6887a9d.js.map": "/Sophieportfolio.github.io/static/js/main.f6887a9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb65c00.css",
+    "static/js/main.f6887a9d.js"
+  ]
+}
